@@ -21,5 +21,9 @@ node_modules
 
 # Build artifacts
 tmp
+<<<<<<< HEAD
 bower_components
+=======
+#bower_components
+>>>>>>> ef4759f472ef0d5c191e09745ebbf0d06cc30a99
 components
